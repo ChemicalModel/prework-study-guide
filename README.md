@@ -10,11 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+On this webpage you can open Chrome's DevTools to view the console,which will suggest one of four topic from what we learned in the pre-work. Each topic has some material to study under the correlated cards. Refreshing will bring a new suggestion in console.
 
 ## Credits
 
@@ -22,4 +18,4 @@ N/A
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+MIT
