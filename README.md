@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-On this webpage you can open Chrome's DevTools to view the console,which will suggest one of four topic from what we learned in the pre-work. Each topic has some material to study under the correlated cards. Refreshing will bring a new suggestion in console.
+On this webpage you can open Chrome's DevTools to view the console, which will suggest one of four topics from what we learned in the pre-work. Each topic has some material to study under the correlated cards. Refreshing will bring a new suggestion in console.
 
 ## Credits
 
